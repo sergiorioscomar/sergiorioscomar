@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergioriosar
-- 👀 I’m interested in software development
+- 👀 I’m interested in systems and technologies
 - 🌱 I’m currently learning english and web development
 - 📫 How to reach me: info@sergiorios.com.ar
 
