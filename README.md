@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergioriosar
+- 👋 Hi, I’m Sergio @sergioriosar
 - 👀 I’m interested in systems and technologies
 - 🌱 I’m currently learning english and web development
 - 📫 How to reach me: info@sergiorios.com.ar
