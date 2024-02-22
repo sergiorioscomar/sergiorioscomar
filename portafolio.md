@@ -1,17 +1,29 @@
-srtest.cloud/siinet/ - 2012 - (html+css+js) web servicios informaticos
-![portada](https://sergiorios.com.ar/img/portafolio/siinet.png)
+# SiiNet - Servicios Informaticos Integrales (2012)
 
-srtest.cloud/newsi/ - 2013 - (html+css+js) web portfolio
-![portada](https://sergiorios.com.ar/img/portafolio/newsi.png)
+srtest.cloud/siinet/ - 2012 - (html+css+js) web servicios informaticos
+
+[![Imagen del Proyecto 1](https://sergiorios.com.ar/img/portafolio/siinet.png)](https://srtest.cloud/siinet/)
+
+# NewSi Nuevo Servicios Informaticos (2013)
+
+srtest.cloud/siinet/ - 2012 - (html+css+js) web servicios informaticos
+
+[![Imagen del Proyecto 2](https://sergiorios.com.ar/img/portafolio/siinet.png)](https://srtest.cloud/siinet/)
+
+# Dosso & Asociados (2013)
 
 srtest.cloud/dossoyasoc/ - 2013 - (html+css+js) web institucional estudio juridico
-![portada](https://sergiorios.com.ar/img/portafolio/dossoyasoc.png)
+
+[![Imagen del Proyecto 3](https://sergiorios.com.ar/img/portafolio/dossoyasoc.png)](https://srtest.cloud/dossoyasoc/)
+
+# EsencialTIC - Tecnologias de la Informacion y Comunicacion (2014)
 
 esencialtic.com.ar - 2014-2023 - (html+css) - portada informativa servicios informaticos. asesoria y consultoria
 srtest.cloud/esencialtic/ - 2020 - (html+css+js) - Web institucional
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic.png)
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic2.png)
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic3.png)
+
+[![Imagen del Proyecto 4](https://sergiorios.com.ar/img/portafolio/esencialtic.png)](https://esencialtic.com.ar/)
+[![Imagen del Proyecto 4](https://sergiorios.com.ar/img/portafolio/esencialtic3.png)](https://srtest.cloud/esencialtic/)
+
 
 SrFutsal.online - 2018-2020 - web comercio electronico
 ![portada](https://sergiorios.com.ar/img/portafolio/srfutsal.png)
