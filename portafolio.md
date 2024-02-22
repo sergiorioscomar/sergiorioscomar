@@ -14,7 +14,7 @@ srtest.cloud/dossoyasoc/ - 2013 - (html+css+js) web institucional estudio juridi
 [![Imagen del Proyecto 3](https://sergiorios.com.ar/img/portafolio/dossoyasoc.png)](https://srtest.cloud/dossoyasoc/)
 
 # EsencialTIC - Tecnologias de la Informacion y Comunicacion (2014-2020)
-esencialtic.com.ar - 2014-2023 - (html+css) - portada informativa servicios informaticos. asesoria y consultoria
+esencialtic.com.ar - 2014-2023 - (html+css+js) - portada informativa servicios informaticos. asesoria y consultoria
 srtest.cloud/esencialtic/ - 2020 - (html+css+js) - Web institucional
 
 [![Imagen del Proyecto 4](https://sergiorios.com.ar/img/portafolio/esencialtic.png)](https://esencialtic.com.ar/)
@@ -84,4 +84,4 @@ futapp.com.ar - 2023 aplicacion de reservas de canchas futbol5
 
 # NordesCloud - Blog (En proceso)
 nordescloud.com.ar - 2023 (wordpress) blog
-[![Imagen del Proyecto 19](https://sergiorios.com.ar/img/portafolio/nordescloud.png)](https://nordescloud.com.ar)
+[![Imagen del Proyecto 20](https://sergiorios.com.ar/img/portafolio/nordescloud.png)](https://nordescloud.com.ar)
