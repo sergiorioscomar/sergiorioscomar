@@ -22,11 +22,6 @@ srtest.cloud/myrproductosdelimpieza/ - 2019 - (wordpress) landingpage informativ
 romerohnoserviciosdesepelios.com - 2019 - (wordpress) web institucional servicios de sepelios
 ![portada](https://sergiorios.com.ar/img/portafolio/romerohnoserviciosdesepelios.png)
 
-srtest.cloud/esencialtic/ - 2020 - (html+css+js) - Web institucional
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic.png)
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic2.png)
-![portada](https://sergiorios.com.ar/img/portafolio/esencialtic3.png)
-
 srtest.cloud - 2020-2023 - (html+css) portada informativa web y cloud hosting
 Web hosting propio puesta en marcha primer año en AWS (EC2) y migrado a latincloud (VPS V4)
 ![portada](https://sergiorios.com.ar/img/portafolio/srtest.png)
