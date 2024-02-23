@@ -23,7 +23,7 @@ Aspecto Negativos: No le gusta confrontar con las personas.
 
 # Experiencia
 
-### LatinCloud
+## LatinCloud
 2 años 7 meses
 ### Desarrollador Backend | Investigación y Desarrollo
 noviembre de 2022 - Present (1 año 4 meses)
