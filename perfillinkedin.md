@@ -1,8 +1,8 @@
-#Sergio Rios
-#Desarrollador Backend
+# Sergio Rios
+## Desarrollador Backend
 Argentina
 
-Extracto
+## Extracto
 Hola, soy Sergio, un apasionado informático con trece años
 experiencia en tecnologías de la información y comunicación.
 Durante los últimos años, me he enfocado en el diseño, desarrollo
@@ -21,21 +21,20 @@ influir en otros comunicando con argumentos y dando razones para
 que actúen o piense de una determinada manera.
 Aspecto Negativos: No le gusta confrontar con las personas.
 
-#Experiencia
+# Experiencia
 
-LatinCloud
+### LatinCloud
 2 años 7 meses
-Desarrollador Backend | Investigación y Desarrollo
+### Desarrollador Backend | Investigación y Desarrollo
 noviembre de 2022 - Present (1 año 4 meses)
 Argentina
 Colaboro con un equipo de I+D para abordar las necesidades tanto técnicas
 como de negocio de la empresa.
 Estoy involucrado en la implementación de soluciones, mejoras y nuevas
 funcionalidades.
-Page 1 of 7
 Tecnologías: PHP, Laravel, Symfony, WHMCS, Wordpress. MySQL. HTML,
 CSS, JavaScripts.Git, Github. Jira, Bugpilot.
-Administrador de sistemas
+### Administrador de sistemas
 enero de 2022 - diciembre de 2022 (1 año)
 Argentina
 Mi rol como Administrador de Sistemas en LatinCloud implicó una amplia
@@ -66,7 +65,7 @@ nuestro equipo.
 Mi experiencia como SysAdmin en LatinCloud fue esencial para mantener la
 infraestructura tecnológica en óptimas condiciones y garantizar la satisfacción
 de nuestros clientes.
-Soporte tecnologías web y cloud
+### Soporte tecnologías web y cloud
 agosto de 2021 - enero de 2022 (6 meses)
 Argentina
 Como Especialista en Soporte tecnologías web y cloud en LatinCloud,
@@ -83,13 +82,16 @@ En resumen, mi rol en LatinCloud fue crucial para mantener la estabilidad
 y eficiencia de nuestros servicios tecnológicos, y estoy orgulloso de haber
 formado parte de un equipo comprometido con la excelencia en el soporte y la
 gestión de tecnologías web y cloud.
-sergiorios.com.ar
+
+## sergiorios.com.ar
 2 años 6 meses
-Desarrollo web | Campo del Cielo
+
+### Desarrollo web | Campo del Cielo
 julio de 2021 - julio de 2022 (1 año 1 mes)
 Resistencia, Chaco, Argentina
 Inventario de Meteoritos Ubicación, Características, fotos, Objetos 3D
-Desarrollador web | Be3 Group
+
+### Desarrollador web | Be3 Group
 febrero de 2020 - julio de 2021 (1 año 6 meses)
 Resistencia, Chaco, Argentina
 Durante el tiempo que trabaje con la agencia de marketing digital Be3group,
@@ -104,7 +106,8 @@ resolver problemas y realizar mejoras en sitios web existentes. Durante
 este proceso, me enfoqué en identificar oportunidades para mejorar y en la
 implementación de nuevas funcionalidades en las páginas web. Este rol me
 permitió aprender y crecer continuamente en el campo del desarrollo web.
-Desarrollador PHP | CodeShare Arg
+
+### Desarrollador PHP | CodeShare Arg
 marzo de 2021 - junio de 2021 (4 meses)
 Argentina
 Como Desarrollador PHP en Codeshare, mi enfoque principal estuvo en
@@ -116,15 +119,17 @@ posición, experimenté un desafío emocionante al aprender el ecosistema
 de plataformas de comercio electrónico ( PrestaShop ). Esta experiencia me
 permitió desarrollar habilidades valiosas en el campo del desarrollo web y el
 comercio electrónico
-Desarrollo web | Romero Hnos SRL
+
+### Desarrollo web | Romero Hnos SRL
 marzo de 2020 - agosto de 2020 (6 meses)
 Resistencia, Chaco, Argentina
 Web Institucional empresa de servicios de sepelios
 Implementación de WordPress. Para la gestión autónoma de contenidos.
 Administración de Hosting + Dominio .com
 https://romerohnoserviciosdesepelios.com/
-Atento
-Desarrollador de software
+
+## Atento
+### Desarrollador de software
 septiembre de 2020 - agosto de 2021 (1 año)
 Argentina
 Como Desarrollador RPA en Atento Argentina, tuve la oportunidad de
@@ -148,8 +153,9 @@ capacitación claro y útil.
 Mi experiencia en Atento me brindó valiosas habilidades y una comprensión
 más profunda de cómo la automatización puede mejorar la eficiencia
 operativa.
-Esencial TIC - Tecnologías de la Información y Comunicación
-Asesor y Consultor IT
+
+## Esencial TIC - Tecnologías de la Información y Comunicación
+### Asesor y Consultor IT
 septiembre de 2014 - agosto de 2020 (6 años)
 Resistencia, Chaco, Argentina
 AGROS soluciones de CIAGRO SRL
@@ -183,8 +189,9 @@ garantizando una conectividad confiable y segura en toda la empresa.
 Mi experiencia en Agros Soluciones me proporcionó una sólida comprensión
 de la infraestructura tecnológica y la importancia del soporte eficiente en un
 entorno empresarial.
-Instituto Nacional de Educación Tecnológica - INET
-Administrador de Redes y Servidores
+
+## Instituto Nacional de Educación Tecnológica - INET
+### Administrador de Redes y Servidores
 febrero de 2012 - septiembre de 2014 (2 años 8 meses)
 Resistencia, Chaco, Argentina
 Durante mi rol como Administrador de Redes y Servidores en los colegios,
@@ -209,8 +216,9 @@ funcionamiento óptimo para el personal docente y los estudiantes.
 Mi experiencia como Administrador de Redes y Servidores en los colegios me
 brindó la oportunidad de contribuir a la mejora de la educación a través de la
 tecnología.
-SiiNet - Servicios Informáticos Integrales
-Técnico informático
+
+## SiiNet - Servicios Informáticos Integrales
+### Técnico informático
 octubre de 2010 - septiembre de 2014 (4 años)
 Resistencia, Chaco, Argentina
 Durante mi tiempo como Técnico Informático en SiiNet, tuve la oportunidad
@@ -239,7 +247,7 @@ Mi experiencia como Técnico Informático en este trabajo de formación
 me proporcionó una sólida base en tecnología de la información y una
 comprensión práctica de diversos aspectos del campo.
 
-#Educación
+# Educación
 Instituto Terciario Belgrano Computación
 Técnico Informático, Tecnología informática/Tecnología de sistemas
 informáticos · (febrero de 2004 - noviembre de 2006)
