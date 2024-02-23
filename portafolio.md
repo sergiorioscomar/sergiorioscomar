@@ -133,6 +133,10 @@ futapp.com.ar - 2023 aplicación de reservas de canchas futbol5
 (desarrollado en grupo en Nodejs + React -> migrando a laravel)
 Se pensó en una app para reservar horario de canchas futbol 5. Que lo puedan hacer rápido y fácil desde cualquier dispositivo y que puedan realizar los pagos para reservar las canchas y horarios para que las canchas adheridas solo tengan que aceptar y de esa forma no perder horas de cancha y plata si los clientes no aparecen.
 
+Nodejs + react
+[![Imagen del Proyecto 19](https://sergiorios.com.ar/img/portafolio/futapp-js.png)](https://futapp.com.ar/)
+
+Laravel
 [![Imagen del Proyecto 19](https://sergiorios.com.ar/img/portafolio/futapp.png)](https://futapp.com.ar/)
 
 # NordesCloud - Blog (En proceso)
