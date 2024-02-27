@@ -45,7 +45,7 @@ Tools: Git, Github, Jira, Trello, GoogleWorkSpace
 O.S: Windows and Linux
 
 ## Projects
-
+https://github.com/sergioriosar/sergioriosar/blob/main/portafolio.md
 
 ## Languages
 English (beginner), Portuguese(intermediate), Spanish (native)
