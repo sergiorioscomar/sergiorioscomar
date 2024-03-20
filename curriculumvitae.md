@@ -27,14 +27,14 @@ LatinCloud, 2021 - 2022
 Atento Argentina, 2020 - 2021
 
 ### Web Developer
-Independiente, 2019 - 2024
+Freelance, 2020 - 2023
 
 ## Skills and Tools
 Programming Languages: PHP, JavaScript
 
 Web Development: HTML, CSS, JavaScript
 
-Frameworks: Laravel, Symfony, NodeJs, Express, React, Vue
+Frameworks: Laravel, Symfony, NodeJs, Express
 
 DataBase: SQL MySQL, No-SQL MongoDB
 
