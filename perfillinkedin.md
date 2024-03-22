@@ -3,23 +3,15 @@
 Argentina
 
 ## Extracto
-Hola, soy Sergio, un apasionado informático con trece años
+Hola, soy Sergio, un apasionado informático con
 experiencia en tecnologías de la información y comunicación.
 Durante los últimos años, me he enfocado en el diseño, desarrollo
-y mantenimiento de sistemas, aplicaciones y sitios web. Mi objetivo
+y mantenimiento de sistemas, aplicaciones y sitios webs. Mi objetivo
 es crear soluciones eficientes y escalables para resolver problemas
 complejos.
 Soy una persona curiosa y apasionada por el aprendizaje constante.
 Siempre estoy en busca de nuevas oportunidades para aplicar mis
 habilidades, aprender y colaborar en proyectos desafiantes.
-Reporte (NAWAIAM - nawaiam.com):
-Habilidades blandas:
-Aspectos Positivos: Podrá trabajar en equipo. Posee facilidad para
-generar contacto relación con los demás. Sabe escuchar y trasmitir
-para lograr una comunicación efectiva. Podrá convencer persuadir e
-influir en otros comunicando con argumentos y dando razones para
-que actúen o piense de una determinada manera.
-Aspecto Negativos: No le gusta confrontar con las personas.
 
 # Experiencia
 
