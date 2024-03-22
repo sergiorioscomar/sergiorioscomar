@@ -84,49 +84,9 @@ formado parte de un equipo comprometido con la excelencia en el soporte y la
 gestión de tecnologías web y cloud.
 
 ## sergiorios.com.ar
-2 años 6 meses
-
-### Desarrollo web | Campo del Cielo
-julio de 2021 - julio de 2022 (1 año 1 mes)
-Resistencia, Chaco, Argentina
-Inventario de Meteoritos Ubicación, Características, fotos, Objetos 3D
-
-### Desarrollador web | Be3 Group
-febrero de 2020 - julio de 2021 (1 año 6 meses)
-Resistencia, Chaco, Argentina
-Durante el tiempo que trabaje con la agencia de marketing digital Be3group,
-tuve el privilegio de colaborar en diversos proyectos web para sus clientes.
-Mi rol abarcó desde la maquetación y diseño hasta el desarrollo de páginas
-web, institucionales, bancos, empresas privadas y publicas y comerciales.
-Con tecnologías como HTML, CSS, JavaScripts, Wordpress, PHP y MySQL.
-Trabajé en estrecha colaboración con los equipos de diseño grafico y
-marketing digital de la agencia, asegurando una sinergia efectiva.
-Además de crear nuevas páginas web, también me enfrenté a la tarea de
-resolver problemas y realizar mejoras en sitios web existentes. Durante
-este proceso, me enfoqué en identificar oportunidades para mejorar y en la
-implementación de nuevas funcionalidades en las páginas web. Este rol me
-permitió aprender y crecer continuamente en el campo del desarrollo web.
-
-### Desarrollador PHP | CodeShare Arg
-marzo de 2021 - junio de 2021 (4 meses)
 Argentina
-Como Desarrollador PHP en Codeshare, mi enfoque principal estuvo en
-la resolución de problemas en las tiendas de comercio electrónico de los
-clientes. Trabajando con metodologías agiles tipo SCRUM con Trello.
-Además, tuve la oportunidad de trabajar en la implementación y mejora
-de nuevas funcionalidades en la plataforma. Durante mi tiempo en esta
-posición, experimenté un desafío emocionante al aprender el ecosistema
-de plataformas de comercio electrónico ( PrestaShop ). Esta experiencia me
-permitió desarrollar habilidades valiosas en el campo del desarrollo web y el
-comercio electrónico
-
-### Desarrollo web | Romero Hnos SRL
-marzo de 2020 - agosto de 2020 (6 meses)
-Resistencia, Chaco, Argentina
-Web Institucional empresa de servicios de sepelios
-Implementación de WordPress. Para la gestión autónoma de contenidos.
-Administración de Hosting + Dominio .com
-https://romerohnoserviciosdesepelios.com/
+2020 - act
+https://github.com/sergioriosar/sergioriosar/blob/main/portafolio.md
 
 ## Atento
 ### Desarrollador de software
@@ -158,8 +118,9 @@ operativa.
 ### Asesor y Consultor IT
 septiembre de 2014 - agosto de 2020 (6 años)
 Resistencia, Chaco, Argentina
-AGROS soluciones de CIAGRO SRL
-Técnico de sistemas
+
+## AGROS soluciones de CIAGRO SRL
+### Técnico de sistemas
 septiembre de 2014 - noviembre de 2019 (5 años 3 meses)
 Resistencia, Chaco, Argentina
 En mi tiempo en Agros Soluciones, trabajé en el área de sistemas y
@@ -248,6 +209,6 @@ me proporcionó una sólida base en tecnología de la información y una
 comprensión práctica de diversos aspectos del campo.
 
 # Educación
-Instituto Terciario Belgrano Computación
-Técnico Informático, Tecnología informática/Tecnología de sistemas
+## Instituto Terciario Belgrano Computación
+#### Técnico Informático, Tecnología informática/Tecnología de sistemas
 informáticos · (febrero de 2004 - noviembre de 2006)
