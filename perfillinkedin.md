@@ -26,7 +26,7 @@ Aspecto Negativos: No le gusta confrontar con las personas.
 ## LatinCloud
 2 años 7 meses
 ### Desarrollador Backend | Investigación y Desarrollo
-noviembre de 2022 - Present (1 año 4 meses)
+2023 - actualidad
 Argentina
 Colaboro con un equipo de I+D para abordar las necesidades tanto técnicas
 como de negocio de la empresa.
@@ -83,14 +83,15 @@ y eficiencia de nuestros servicios tecnológicos, y estoy orgulloso de haber
 formado parte de un equipo comprometido con la excelencia en el soporte y la
 gestión de tecnologías web y cloud.
 
-## sergiorios.com.ar
-Argentina
-2020 - act
+## sergiorios.ar
+### Desarrollador Web
+2020 - actualidad
+Profesional independiente - Argentina
 https://github.com/sergioriosar/sergioriosar/blob/main/portafolio.md
 
 ## Atento
 ### Desarrollador de software
-septiembre de 2020 - agosto de 2021 (1 año)
+mar. 2020 - ago. 2021 · 1 año 6 meses
 Argentina
 Como Desarrollador RPA en Atento Argentina, tuve la oportunidad de
 contribuir al equipo y desempeñar un papel importante en proyectos de
