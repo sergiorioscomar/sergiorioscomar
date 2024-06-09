@@ -5,12 +5,6 @@ Planee una web estática, con algo de interacción en javascripts para la lectur
 
 [![Imagen del Proyecto 1](https://sergiorios.com.ar/img/portafolio/siinet.png)](https://web.esencialtic.com.ar/siinet/)
 
-# NewSi Nuevo Servicios Informáticos (2013)
-web.esencialtic.com.ar/newsi/ - 2013 - (html+css+js) servicios web
-Necesitaba una web para mostrar, e ir agregando trabajos a mi portafolio para la venta de diseño de páginas webs.
-
-[![Imagen del Proyecto 2](https://sergiorios.com.ar/img/portafolio/newsi.png)](https://web.esencialtic.com.ar/newsi/)
-
 # Dosso & Asociados (2013)
 web.esencialtic.com.ar/dossoyasoc/ - 2013 - (html+css+js) web institucional estudio juridico
 El cliente pide una web institucional con música, y formulario para que se puedan contactar desde la web para pedir presupuestos.
