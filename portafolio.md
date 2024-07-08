@@ -49,7 +49,7 @@ srtest.cloud - 2020-2022 - (html+css) portada informativa web y cloud hosting
 Web hosting propio puesta en marcha primer año en AWS (EC2) y migrado a latincloud (VPS V4).
 Solo una portada. Es un VPS que utilizo para muestras de webs de pruebas antes de pasarlas a producción.
 
-[![Imagen del Proyecto 8](https://sergiorios.com.ar/img/portafolio/srtest.png)](https://srtest.cloud)
+[![Imagen del Proyecto 8](https://sergiorios.com.ar/img/portafolio/srtest.png)](https://web.esencialtic.com.ar/)
 
 
 # SergioRiosAr - web personal (2020)
@@ -132,7 +132,3 @@ Nodejs + react
 
 Laravel
 [![Imagen del Proyecto 19](https://sergiorios.com.ar/img/portafolio/futapp.png)](https://futapp.com.ar/)
-
-# NordesCloud - Blog (En proceso)
-nordescloud.com.ar - 2023 (wordpress) blog
-[![Imagen del Proyecto 20](https://sergiorios.com.ar/img/portafolio/nordescloud.png)](https://nordescloud.com.ar)

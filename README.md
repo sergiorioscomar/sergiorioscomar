@@ -4,9 +4,8 @@
 - 📫 How to reach me: info@sergiorios.com.ar
 
 
-- [ Webs Portfolio](https://github.com/sergioriosar/sergioriosar/blob/main/portafolio.md)
-- [ cv](https://github.com/sergioriosar/sergioriosar/blob/main/curriculumvitae.md)
-- [ profile Linkedin spanish](https://github.com/sergioriosar/sergioriosar/blob/main/perfillinkedin.md)
+- [ Webs Portfolio](https://nordescloud.com.ar/)
+- [ cv](https://www.linkedin.com/in/sergioriosar/)
 
 <!---
 sergioriosar/sergioriosar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
