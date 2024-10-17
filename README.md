@@ -4,7 +4,7 @@
 - 📫 How to reach me: info@sergiorios.com.ar
 
 
-- [ Webs Portfolio](https://esencialtic.com.ar/)
+- [ myResumen](https://sobre.sergiorios.com.ar/)
 - [ cv](https://www.linkedin.com/in/sergiorioscomar/)
 
 <!---
