@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sergio Ríos
+# 👋 Hola, soy Sergio Rios
 
 Soy desarrollador web y administrador de sistemas con experiencia en proyectos personales y de formación continua. Me apasiona el desarrollo de software, la automatización y la creación de soluciones útiles.
 
