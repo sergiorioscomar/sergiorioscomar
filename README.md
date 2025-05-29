@@ -17,17 +17,6 @@ Soy desarrollador web y administrador de sistemas con experiencia en proyectos p
 
 ---
 
-## 📂 Repositorios destacados
-
-| Proyecto | Descripción |
-|---|---|
-| [**myresumen**](https://sobre.sergiorios.com.ar/) | Mi resumen landing desarrollada en Laravel + Blade y Bootstrap. consumo de api de wordpress para entradas de blog. |
-| [**portafolio**](https://github.com/sergiorioscomar/portafolio) | Administrar proyectos personales y datos del portafolio. |
-| [**futapp**](https://futapp.sergiorios.com.ar/) | App para reservas de canchas, calificaciones y publicaciones. Laravel + Blade  y Bootstrap.|
-| [**ApiGetClientIdDNIandCuit**](https://github.com/sergiorioscomar/getclientiddnicuit) | AApi para whmcs personalizada getClientId_DNI_CUIT para central telefonica. |
-
----
-
 ## 📄 Más sobre mí
 
 - 📫 Email: [info@sergiorios.com.ar](mailto:info@sergiorios.com.ar)
