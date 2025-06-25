@@ -1,11 +1,11 @@
 # 👋 Hola, soy Sergio Rios
 
-Soy desarrollador web y administrador de sistemas con experiencia en proyectos personales y profesionales de formación continua. Me apasiona el desarrollo de software, la automatización y la creación de soluciones útiles.
+Soy desarrollador web backend con experiencia en proyectos personales y profesionales de formación continua. Me apasiona el desarrollo de software, la automatización y la creación de soluciones útiles.
 
 ---
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo **desarrollo web full stack**, **DevOps**, e **inglés técnico**.
+- 🌱 Actualmente aprendiendo **desarrollo web full stack**, **DevSecOps**, e **inglés técnico**.
 - 💻 Trabajo con tecnologías como: `PHP`, `Laravel`, `JavaScript`, `NodeJs`,`Python`, `MySQL`, `Docker`, `Linux`, `WHMCS` y `Wordpress`.
 - 🔧 Administro servidores y despliego aplicaciones usando **Docker**, **Nginx**, **Apache**, **VPS Linux**, **Cloud Hosting**, y **Web Hosting**,.
 - ⚽ En mi tiempo libre juego al futsal y sigo mejorando mi salud y rendimiento.
