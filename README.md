@@ -1,5 +1,3 @@
----
-
 ## 🚀 Sobre mí
 - 🌱 Actualmente aprendiendo **desarrollo web full stack**, **DevSecOps**, e **inglés técnico**.
 - 💻 Trabajo con tecnologías como: `PHP`, `Laravel`, `JavaScript`, `NodeJs`,`Python`, `MySQL`, `Docker`, `Linux`, `WHMCS` y `Wordpress`.
