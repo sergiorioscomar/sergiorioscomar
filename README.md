@@ -6,7 +6,6 @@
 - 📋 Gestión de tareas y flujo de trabajo con **GitHub Projects**
 - 🔄 Control de versiones y colaboración con **Git** y **GitHub**
 - 🚀 Automatización CI/CD con **GitHub Actions**
----
 
 ---
 ## 🚀 About me
@@ -17,7 +16,6 @@
 - 📋 I manage tasks and workflows with **GitHub Projects**
 - 🔄 I manage version control and collaboration with **Git** y **GitHub**
 - 🚀 I automate CI/CD with **GitHub Actions**
----
 
 ## 🧰 Technologies and Tools
 <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,nodejs,express,python,django,mysql,mongodb,git,github,docker,linux,nginx,react,vue,html,css,bootstrap,wordpress" />
