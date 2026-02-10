@@ -1,6 +1,6 @@
 ## 🚀 Sobre mí
 - 🌱 Actualmente aprendiendo **desarrollo web full stack**, **DevSecOps**, e **inglés técnico**.
-- 💻 Trabajo con tecnologías como: `PHP`, `Laravel`, `JavaScript`, `NodeJs`,`Python`,`Django`, `MySQL`, `Docker`, `Linux`, `WHMCS` y `Wordpress`.
+- 💻 Trabajo con tecnologías como: `PHP`, `Laravel`, `JavaScript`, `NodeJs`,`Express`,`Python`,`Django`, `MySQL`,`WHMCS` y `Wordpress`.
 - 🔧 Administro servidores y despliego aplicaciones usando **Docker**, **Nginx**, **Apache**, **VPS Linux**, **Cloud Hosting**, y **Web Hosting**,.
 - ⚙️ Trabajo con **metodologías ágiles (Kanban)** y prácticas **DevOps**
 - 📋 Gestión de tareas y flujo de trabajo con **GitHub Projects**
