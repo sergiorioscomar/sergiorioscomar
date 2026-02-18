@@ -20,6 +20,17 @@
 ## 🧰 Technologies and Tools
 <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,nodejs,express,python,django,mysql,mongodb,git,github,docker,linux,nginx,react,vue,html,css,bootstrap,wordpress" />
 
+
+## 🚀 Projects
+
+- 📝 **[BlogEsencialtic](https://github.com/sergiorioscomar/blog)** - Blog with python django.
+- 📜 **[PorfolioEsencialtic](https://github.com/sergiorioscomar/blog-esencialtic)** - Porfolio, frontend with React and backend with Laravel.
+- 📍 **[API-WHMCS](https://github.com/sergiorioscomar/getclientiddnicuit)** - API whmcs
+- ⚙️ **[API-Wordpress](https://github.com/sergiorioscomar/consumo-api-wordpress-blog)** - Get data from API Wordpress 
+- ⏳ **[Pomodoro-App](https://github.com/sergiorioscomar/tkinter-pomodoro)** - Pomodoro-App python with tkinter
+- 📊 **[Whmpress Sync Discount](https://github.com/sergiorioscomar/whmpress-sync-discount)** - Whmpress sync Discount
+
+---
 ## 📄 More About Me
 
 - 📫 Email: [info@sergiorios.com.ar](mailto:info@sergiorios.com.ar)
