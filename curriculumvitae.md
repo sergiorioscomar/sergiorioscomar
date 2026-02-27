@@ -1,51 +1,85 @@
 # Sergio Rios
-## Backend Developer
+**Desarrollador Backend | Sistemas, Integraciones y Automatización**  
+📍Resistencia, Chaco, Argentina — Remoto  
+📧 info@sergiorios.com.ar  
+🌐 sergiorios.com.ar  
 
-Contact Information
-Email: info@sergiorios.ar
+---
 
-Phone: (AR)+54 362 4132249
+## Perfil
+Desarrollador backend enfocado en resolver problemas reales de negocio y operativos mediante software, integraciones y automatización.  
+Trabajo principalmente con sistemas backend, API, bases de datos, infraestructura y entornos cloud, ayudando a empresas a mejorar sus plataformas existentes, automatizar procesos y conectar servicios.  
+Gran capacidad para comprender las necesidades del negocio y traducirlas en soluciones técnicas fiables.
 
-LinkedIn: linkedin.com/in/sergiorios.ar
+---
 
-## Education
-Computer science
-Institute Belgrano Computacion of Paso de los Libres - Corrientes Argentina, 2006
+## Habilidades Clave
+- Desarrollo Backend: PHP, Python, Node.js
+- Integración y Automatización de API
+- Diseño de Bases de Datos y Procesamiento de Datos
+- Infraestructura y Servidores en la Nube
+- Seguridad y Arquitectura de Sistemas
+- Personalización de WHMCS e Integraciones SaaS
+- Flujos de trabajo e implementación de DevOps
+- Resolución de problemas orientada al negocio
 
-## Work Experience
+---
 
-### Backend Developer
-LatinCloud, 2023 - 2024
+## Experiencia Profesional
 
-### SysAdmin
-LatinCloud, 2022 - 2023
+### Desarrollador Web Full Stack (Enfoque en Backend) — NUVEO  
+📅**2025 — Presente**
+- Desarrollo e integraciones backend para plataformas web
+- Conectividad de API y flujos de automatización
+- Mejoras del sistema y tareas de infraestructura
+- Git y flujos de trabajo de desarrollo colaborativo
 
-### Support - Web and cloud technology
-LatinCloud, 2021 - 2022
+### Desarrollador Backend — LatinCloud  
+📅**2023 — 2024**
+- Desarrollo de sistemas backend en un entorno de hosting
+- Personalización de WHMCS y ganchos de automatización
+- Integraciones de API (marketing, soporte, facturación)
+- Diseño e informes de bases de datos
+- Automatización de procesos para mejorar la eficiencia operativa
 
-### Software Developer
-Atento Argentina, 2020 - 2021
+### Administrador de Sistemas — LatinCloud  
+📅**2022 — 2023**
+- Administración de servidores Linux
+- Gestión de infraestructura de hosting
+- Seguridad y monitorización
+- Implementación y configuración del entorno
 
-### Web Developer
-Freelance, 2020 - 2023
+### Soporte tecnológico web y cloud — LatinCloud  
+📅**2021 — 2022**
+- Soporte técnico para plataformas cloud y hosting
+- Solución de problemas de sistemas web
+- Integraciones con plataformas de clientes
 
-## Skills and Tools
-Programming Languages: PHP, JavaScript
+### Desarrollador RPA — Atento  
+📅**2020 — 2021**
+- Automatización robótica de procesos
+- Análisis y optimización de procesos
+- Desarrollo de scripts de automatización
 
-Web Development: HTML, CSS, JavaScript
+---
 
-Frameworks: Laravel, Symfony, NodeJs, Express
+## Proyectos y trabajos destacados
+- Integraciones con WHMCS y módulos de automatización
+- Sistema de sincronización de marketing Brevo
+- Módulo de integración de tickets LiveAgent
+- Sistemas de informes backend y métricas de negocio
+- Múltiples plataformas web para clientes (proyectos de cartera)
+- Servicios backend y APIs orientados a SaaS
 
-DataBase: SQL MySQL, No-SQL MongoDB
+---
 
-CMS: Wordpress
+## Tecnologías
+PHP • Python • Node.js • MySQL • Linux • Git • GitHub • Docker • APIs • WHMCS • WordPress • Plataformas cloud • Herramientas de automatización
 
-Tools: Git, Github, Jira, Trello, GoogleWorkSpace
+---
 
-O.S: Windows and Linux
-
-## Projects
-https://github.com/sergioriosar/sergioriosar/blob/main/portafolio.md
-
-## Languages
-English (beginner), Portuguese(intermediate), Spanish (native)
+## Información adicional
+- Sólida mentalidad empresarial
+- Experiencia de trabajo remoto
+- Desarrollo basado en documentación
+- Enfoque en sistemas escalables y fáciles de mantener
