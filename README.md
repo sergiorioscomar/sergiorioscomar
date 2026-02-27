@@ -36,6 +36,6 @@
 - 📫 Email: [info@sergiorios.com.ar](mailto:info@sergiorios.com.ar)
 - 🌐 Portfolio: [sobre.sergiorios.com.ar](https://sobre.sergiorios.com.ar)
 - 💼 LinkedIn: [sergiorioscomar](https://www.linkedin.com/in/sergiorioscomar/)
-- 📜 CV: [[curriculumvitae](https://www.linkedin.com/in/sergiorioscomar/)](https://github.com/sergiorioscomar/sergiorioscomar/blob/main/curriculumvitae.md)
+- 📜 CV: [[curriculumvitae](https://github.com/sergiorioscomar/sergiorioscomar/blob/main/curriculumvitae.md)]
 
 ---
